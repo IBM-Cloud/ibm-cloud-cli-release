@@ -36,14 +36,14 @@ You can download the latest installers below.
 | [Bluemix_CLI.pkg](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI.pkg) | [Bluemix_CLI_amd64.tar.gz](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI_amd64.tar.gz) | [Bluemix_CLI_amd64.exe](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI_amd64.exe) |
 
 
-32 bit releases and previous releases can be found [here](./CHANGELOG.md)
+32 bit releases and previous releases can be found [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases)
 
 ## Extending with plugins
 
-Check [plugin repository](http://plugins.ng.bluemix.net/ui/repository.html#bluemix-plugins) for any extension that enahnce the CLI capabilities.
+Check [plugin repository](http://plugins.ng.bluemix.net/ui/repository.html#bluemix-plugins) for any extension that enhances the CLI capabilities.
 
 
-To list the plugins in Bluemix CLI plugin repo:
+To list the plugins in Bluemix plugin repository:
 
 ```
 bluemix plugin repo-plugins
@@ -59,7 +59,7 @@ bluemix plugin install PLUGIN_NAME -r Bluemix
 
 ## Release notes
 
-Please refer to [here](./CHANGELOG.md) for details.
+Please refer to [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases) for details.
 
 
 # Issues, defects and feature requests
