@@ -1,12 +1,12 @@
 # Bluemix CLI
 
-This is the command line client for [Bluemix](https://console.ng.bluemix.net/). See help of each command from [Bluemix Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `bluemix help`.
+This is the command line client for [IBM Cloud](https://console.ng.bluemix.net/). See help of each command from [IBM Cloud Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `bluemix help`.
 
 ## Getting started
 
 Download and run the installer for your platform from [Downloads](#downloads) section.
 
-Once installed, you can login and interact with Bluemix
+Once installed, you can login and interact with IBM Cloud
 ```
 $ bluemix api https://api.ng.bluemix.net
 Setting api endpoint to https://api.ng.bluemix.net...
@@ -33,7 +33,7 @@ You can download the latest installers below.
 
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [Bluemix_CLI.pkg](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/latest/Bluemix_CLI.pkg) | [Bluemix_CLI_amd64.tar.gz](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/latest/Bluemix_CLI_amd64.tar.gz) | [Bluemix_CLI_amd64.exe](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/latest/Bluemix_CLI_amd64.exe) |
+| [download](https://clis.ng.bluemix.net/download/bluemix-cli/latest/osx) | [download](https://clis.ng.bluemix.net/download/bluemix-cli/latest/linux64) | [download](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) |
 
 
 32 bit releases and previous releases can be found [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases)
