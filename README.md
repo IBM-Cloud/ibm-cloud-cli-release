@@ -15,17 +15,19 @@ OK
 $ bluemix login
 API endpoint: https://api.ng.bluemix.net
 
-Email> xxxx@xxx.xxx.xxx
+Email> user@example.org
 
 Password> 
 Authenticating...
 OK
 
-$ bluemix list
+$ bluemix app list
 
-Getting resources in org 'myorg' / space 'dev' as xxxx@xxx.xxx.xxx...
+Getting apps in org MyOrg / space MySpace as user@example.org...
+OK
 
-...
+name         requested state   instances   memory   disk   urls
+myjavawebapp started           1/1         512M     1G     myjavawebapp.mybluemix.net
 ```
 
 ## Downloads
