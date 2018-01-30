@@ -1,4 +1,4 @@
-# Bluemix CLI
+# IBM Cloud CLI
 
 This is the command line client for [IBM Cloud](https://console.ng.bluemix.net/). See help of each command from [IBM Cloud Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `bluemix help`.
 
