@@ -2,7 +2,7 @@
 
 ![ppc64le](https://img.shields.io/badge/ppc64le-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86__64-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86-supported-brightgreen.svg) ![s390x](https://img.shields.io/badge/s390x-not%20supported-red.svg)
 
-This is the command line client for [IBM Cloud](https://console.ng.bluemix.net/). See help of each command from [IBM Cloud Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `bluemix help`.
+This is the command line client for [IBM Cloud](https://console.ng.bluemix.net/). See help of each command from [IBM Cloud Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `ibmcloud help`.
 
 ## Getting started
 
