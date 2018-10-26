@@ -10,11 +10,11 @@ Download and run the installer for your platform from [Downloads](#downloads) se
 
 Once installed, you can login and interact with IBM Cloud
 ```
-$ bluemix api https://api.ng.bluemix.net
+$ ibmcloud api https://api.ng.bluemix.net
 Setting api endpoint to https://api.ng.bluemix.net...
 OK
 
-$ bluemix login
+$ ibmcloud login
 API endpoint: https://api.ng.bluemix.net
 
 Email> user@example.org
@@ -23,7 +23,7 @@ Password>
 Authenticating...
 OK
 
-$ bluemix app list
+$ ibmcloud app list
 
 Getting apps in org MyOrg / space MySpace as user@example.org...
 OK
@@ -50,22 +50,22 @@ Check [plugin repository](http://plugins.ng.bluemix.net/ui/repository.html#bluem
 To list the plugins in Bluemix plugin repository:
 
 ```
-bluemix plugin repo-plugins
+ibmcloud plugin repo-plugins
 
 ```
 
 To download and install the plugin:
 
 ```
-bluemix plugin install PLUGIN_NAME -r Bluemix
+ibmcloud plugin install PLUGIN_NAME 
 
 ```
 
 ## Release notes
 
-Please refer to [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases) for details.
+Please refer to [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases) for details.
 
 
 # Issues, defects and feature requests
 
-Any issues/defects, or feature requests, please [file an issue](https://github.com/IBM-Bluemix/bluemix-cli-release/issues) if not raised before.
+Any issues/defects, or feature requests, please [file an issue](https://github.com/IBM-Cloud/ibm-cloud-cli-release/issues) if not raised before.
