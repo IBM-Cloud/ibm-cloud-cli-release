@@ -21,8 +21,6 @@ OK
 
 $ ibmcloud resource service-instances
 
-$ibmcloud resource service-instances
-
 Name                                         Location   State    Type
 IBM Cloud Activity Tracker with LogDNA-med   us-south   active   service_instance
 Continuous Delivery-qb                       us-south   active   service_instance
