@@ -2,7 +2,7 @@
 
 ![ppc64le](https://img.shields.io/badge/ppc64le-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86__64-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86-supported-brightgreen.svg) ![s390x](https://img.shields.io/badge/s390x-not%20supported-red.svg)
 
-This is the command line client for [IBM Cloud](https://cloud.ibm.com/). See more information of IBM Cloud CLI on [IBM Cloud Docs](https://https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) .
+This is the command line client for [IBM Cloud](https://cloud.ibm.com/). See more information of IBM Cloud CLI on [IBM Cloud Docs](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) .
 
 ## Getting started
 
