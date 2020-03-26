@@ -22,10 +22,9 @@ OK
 $ ibmcloud resource service-instances
 
 Name                                         Location   State    Type
-IBM Cloud Activity Tracker with LogDNA-med   us-south   active   service_instance
-Continuous Delivery-qb                       us-south   active   service_instance
-toolchain-example                               us-east    active   service_instance
-Continuous Delivery-hv                       us-east    active   service_instance
+IBM Cloud Activity Tracker with LogDNA-em   us-south   active   service_instance
+Continuous Delivery-example                 us-south   active   service_instance
+toolchain-example                           us-east    active   service_instance
 ```
 
 ## Downloads
