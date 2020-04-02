@@ -35,14 +35,14 @@ You can download the latest installers below.
 | [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/osx) | [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/linux64) | [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) |
 
 
-32 bit releases and previous releases can be found [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases)
+32 bit releases and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
 
 ## Extending with plugins
 
 Check [plugin repository](http://plugins.cloud.ibm.com) for any extension that enhances the CLI capabilities.
 
 
-To list the plugins in Bluemix plugin repository:
+To list the plugins in IBM Cloud plugin repository:
 
 ```
 ibmcloud plugin repo-plugins
