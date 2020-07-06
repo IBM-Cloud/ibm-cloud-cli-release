@@ -1,31 +1,30 @@
-# Bluemix CLI
+# IBM Cloud CLI
 
-This is the command line client for [Bluemix](https://console.ng.bluemix.net/). See help of each command from [Bluemix Docs](https://console.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html) or by running `bluemix help`.
+![ppc64le](https://img.shields.io/badge/ppc64le-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86__64-supported-brightgreen.svg) ![x86_64](https://img.shields.io/badge/x86-supported-brightgreen.svg) ![s390x](https://img.shields.io/badge/s390x-not%20supported-red.svg)
+
+This is the command line client for [IBM Cloud](https://cloud.ibm.com/). See more information of IBM Cloud CLI on [IBM Cloud Docs](https://cloud.ibm.com/docs/cli?topic=cloud-cli-getting-started) .
 
 ## Getting started
 
 Download and run the installer for your platform from [Downloads](#downloads) section.
 
-Once installed, you can login and interact with Bluemix
+Once installed, you can login and interact with IBM Cloud
 ```
-$ bluemix api https://api.ng.bluemix.net
-Setting api endpoint to https://api.ng.bluemix.net...
-OK
+$ ibmcloud login
+API endpoint: https://cloud.ibm.com
 
-$ bluemix login
-API endpoint: https://api.ng.bluemix.net
-
-Email> xxxx@xxx.xxx.xxx
+Email> user@example.org
 
 Password> 
 Authenticating...
 OK
 
-$ bluemix list
+$ ibmcloud resource service-instances
 
-Getting resources in org 'myorg' / space 'dev' as xxxx@xxx.xxx.xxx...
-
-...
+Name                                         Location   State    Type
+IBM Cloud Activity Tracker with LogDNA-em   us-south   active   service_instance
+Continuous Delivery-example                 us-south   active   service_instance
+toolchain-example                           us-east    active   service_instance
 ```
 
 ## Downloads
@@ -33,35 +32,35 @@ You can download the latest installers below.
 
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [Bluemix_CLI.pkg](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI.pkg) | [Bluemix_CLI_amd64.tar.gz](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI_amd64.tar.gz) | [Bluemix_CLI_amd64.exe](http://public.dhe.ibm.com/cloud/bluemix/cli/bluemix-cli/Bluemix_CLI_amd64.exe) |
+| [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/osx) | [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/linux64) | [download](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) |
 
 
-32 bit releases and previous releases can be found [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases)
+32 bit releases and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
 
 ## Extending with plugins
 
-Check [plugin repository](http://plugins.ng.bluemix.net/ui/repository.html#bluemix-plugins) for any extension that enhances the CLI capabilities.
+Check [plugin repository](http://plugins.cloud.ibm.com) for any extension that enhances the CLI capabilities.
 
 
-To list the plugins in Bluemix plugin repository:
+To list the plugins in IBM Cloud plugin repository:
 
 ```
-bluemix plugin repo-plugins
+ibmcloud plugin repo-plugins
 
 ```
 
 To download and install the plugin:
 
 ```
-bluemix plugin install PLUGIN_NAME -r Bluemix
+ibmcloud plugin install PLUGIN_NAME 
 
 ```
 
 ## Release notes
 
-Please refer to [here](https://github.com/IBM-Bluemix/bluemix-cli-release/releases) for details.
+Please refer to [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases) for details.
 
 
 # Issues, defects and feature requests
 
-Any issues/defects, or feature requests, please [file an issue](https://github.com/IBM-Bluemix/bluemix-cli-release/issues) if not raised before.
+Any issues/defects, or feature requests, please [file an issue](https://github.com/IBM-Cloud/ibm-cloud-cli-release/issues) if not raised before.
