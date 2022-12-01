@@ -32,17 +32,17 @@ You can download the latest installers below.
 
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.9.0/IBM_Cloud_CLI_2.9.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.9.0/IBM_Cloud_CLI_2.9.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.9.0/IBM_Cloud_CLI_2.9.0_amd64.exe) |
+| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.13.0/IBM_Cloud_CLI_2.13.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.13.0/IBM_Cloud_CLI_2.13.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.13.0/IBM_Cloud_CLI_2.13.0_amd64.exe) |
 
 
-32 bit releases and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
+Additional supported architectures and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
 
 ## Extending with plugins
 
-Check [plugin repository](http://plugins.cloud.ibm.com) for any extension that enhances the CLI capabilities.
+Plug-ins enhance the CLI capabilities.
 
 
-To list the plugins in IBM Cloud plugin repository:
+To list the plug-ins in IBM Cloud plug-in repository:
 
 ```
 ibmcloud plugin repo-plugins
