@@ -32,7 +32,7 @@ You can download the latest installers below.
 
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.31.0/IBM_Cloud_CLI_2.31.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.31.0/IBM_Cloud_CLI_2.31.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.31.0/IBM_Cloud_CLI_2.31.0_amd64.exe) |
+| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.32.0/IBM_Cloud_CLI_2.32.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.32.0/IBM_Cloud_CLI_2.32.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.32.0/IBM_Cloud_CLI_2.32.0_amd64.exe) |
 
 
 Additional supported architectures and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
