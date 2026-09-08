@@ -30,12 +30,12 @@ toolchain-example                           us-east    active   service_instance
 ## Downloads
 You can download the latest installers below.
 
-Latest version **2.46.0** released **2026-01-28**.
+Latest version **2.47.0** released **2026-08-28**.
 
 <!-- DOWNLOADS:START -->
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.46.0/IBM_Cloud_CLI_2.46.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.46.0/IBM_Cloud_CLI_2.46.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.46.0/IBM_Cloud_CLI_2.46.0_amd64.exe) |
+| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.47.0/IBM_Cloud_CLI_2.47.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.47.0/IBM_Cloud_CLI_2.47.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.47.0/IBM_Cloud_CLI_2.47.0_amd64.exe) |
 <!-- DOWNLOADS:END -->
 
 Additional supported architectures and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
