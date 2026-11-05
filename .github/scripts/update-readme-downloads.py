@@ -16,7 +16,7 @@ readme = readme_path.read_text()
 
 downloads = f"""| **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/{version}/IBM_Cloud_CLI_{version}.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/{version}/IBM_Cloud_CLI_{version}_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/{version}/IBM_Cloud_CLI_{version}_amd64.exe) |"""
+| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/{version}/IBM_Cloud_CLI_{version}.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/{version}/IBM_Cloud_CLI_{version}_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/{version}/IBM_Cloud_CLI_{version}_amd64.exe) |"""
 
 readme, count = re.subn(
     r"<!-- DOWNLOADS:START -->.*?<!-- DOWNLOADS:END -->",

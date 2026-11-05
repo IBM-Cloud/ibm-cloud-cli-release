@@ -35,7 +35,7 @@ Latest version **2.49.0** released **2026-11-05**.
 <!-- DOWNLOADS:START -->
 | **macOS** | **Linux 64 bit** | **Windows 64 bit** |
 |-----------|------------------|--------------------|
-| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.49.0/IBM_Cloud_CLI_2.49.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.49.0/IBM_Cloud_CLI_2.49.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.49.0/IBM_Cloud_CLI_2.49.0_amd64.exe) |
+| [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/2.49.0/IBM_Cloud_CLI_2.49.0.pkg) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/2.49.0/IBM_Cloud_CLI_2.49.0_amd64.tar.gz) | [download](https://download.clis.cloud.ibm.com/ibm-cloud-cli-dn/2.49.0/IBM_Cloud_CLI_2.49.0_amd64.exe) |
 <!-- DOWNLOADS:END -->
 
 Additional supported architectures and previous releases can be found [here](https://github.com/IBM-Cloud/ibm-cloud-cli-release/releases)
